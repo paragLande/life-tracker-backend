@@ -1,0 +1,2 @@
+-- Hibernate creates and updates the schema through spring.jpa.hibernate.ddl-auto=update.
+-- Keep this file for future hand-written indexes, reporting views, or migration notes.
